@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rails and looking at starting Java next!**
 
-- 👨‍💻 All of my projects are available at [**WIP**](**WIP**)
+- 👨‍💻 All of my projects are available at https://github.com/jlweave?tab=repositories
 
 - 📫 How to reach me **jlweave89@gmail.com**
 
