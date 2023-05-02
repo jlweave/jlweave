@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rails and looking at starting Java next!**
 
-- 👨‍💻 All of my projects are available at https://github.com/jlweave?tab=repositories
+- 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/jlweave?tab=repositories) and [My Portfolio](https://terminal.turing.edu/profiles/1690)
 
 - 📫 How to reach me **jlweave89@gmail.com**
 
