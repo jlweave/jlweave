@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lacey</h1>
 <h3 align="center">A backend Engineer solving problems one line of code at a time</h3>
 
-- 🔭 I’m currently working on [Correct-or-Crass](https://github.com/Correct-or-Crass/Trivia_API)
+- 🔭 I’m currently working on starting my new role as a Dev at Venn Technology
 
 - 🌱 I’m currently learning **Rails and looking at starting Java next!**
 
